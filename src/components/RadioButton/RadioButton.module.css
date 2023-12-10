@@ -1,0 +1,10 @@
+.radioButton {
+    height: 26px;
+    width: 26px;
+}
+
+.radioButtonWithLabel {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}

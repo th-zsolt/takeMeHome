@@ -1,0 +1,52 @@
+.page{
+    max-width: 750px;
+    margin: 0 auto;
+    padding: 15px;
+    border: 5px solid #222;
+}
+
+.name {
+    font-family: 'Roboto', sans-serif;
+    font-size: 4em;
+    text-align: center;
+    margin: -15px -15px 0;
+    padding: 0.2em 50px 0.2em 0;
+    color: white;
+    background-color: #222;
+}
+
+.icon{
+    max-width: 26px;
+    max-height: 26px;
+}
+
+.dogImage {
+    max-width: 375px;
+    max-height: 375px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.flexContainer {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.desc {
+    background-color: white;
+    margin: 15px -15px -15px;
+    padding: 15px;
+    line-height: 1.5;
+}
+
+.backButton {
+    display: inline-block;
+    position: absolute;
+    left:50%;
+    margin-left:-360px;
+    top: 35px;
+    max-width: 50px;
+    max-height: 50px;
+}

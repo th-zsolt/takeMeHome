@@ -1,0 +1,165 @@
+[
+   {
+     "objectID": 0,
+     "name": "Skipper",
+     "gender": "male",
+     "breed": "basset-hound",
+     "age": 0.5,
+     "size": "Large",
+     "noviceOwner": true,
+     "desc": "Meet Skipper, the adorable Basset Hound! With soulful eyes, droopy charm, and a heart full of love, Skipper is the perfect companion. Whether sniffing out adventures or lounging in the sun, he'll bring joy to your life. Adopt Skipper for a tail-wagging, heartwarming journey!",
+     "pers": [
+       {"objectID": 0, "name": "Loyalty"},
+       {"objectID": 1, "name": "Playfulness"},
+       {"objectID": 2, "name": "Family-Friendly"},
+       {"objectID": 3, "name": "Affectionate"}
+     ],
+     "image": "basset-hound.png"
+   },
+   {
+     "objectID": 1,
+     "name": "Baxter",
+     "gender": "male",
+     "breed": "Beagle",
+     "age": 9,
+     "size": "Small",
+     "noviceOwner": true,
+     "desc": "Meet Baxter, the lively two-year-old Beagle full of curiosity and charm! With expressive eyes and a playful spirit, he's your perfect companion for adventures and laughter. Enjoy a life filled with tail wags, sniffing escapades, and the heartwarming joy that only a Beagle like Baxter can bring!",
+     "pers": [
+       {"objectID": 4, "name": "Playfulness"},
+       {"objectID": 5, "name": "Intelligence"},
+       {"objectID": 6, "name": "Companionship"}
+     ],
+     "image": "Beagle.png"
+   },
+   {
+     "objectID": 2,
+     "name": "Luna",
+     "gender": "female",
+     "breed": "Cur",
+     "age": 1,
+     "size": "Small",
+     "noviceOwner": true,
+     "desc": "Meet Luna, the lively 1-year-old Cur with boundless energy and a heart full of resilience! Luna's striking coat and bright eyes mirror her adventurous spirit. She loves exploring the world, infusing each moment with curiosity and loyalty.",
+     "pers": [
+       {"objectID": 7, "name": "Faithfulness"},
+       {"objectID": 8, "name": "Playfulness"},
+       {"objectID": 9, "name": "Affectionate"}
+     ],
+     "image": "cur.png"
+   },
+   {
+     "objectID": 3,
+     "name": "Duke",
+     "gender": "male",
+     "breed": "Cur",
+     "age": 7,
+     "size": "Medium",
+     "noviceOwner": true,
+     "desc": "Meet Duke, the wise and affectionate middle-aged Cur. With a slightly grizzled charm and a heart full of warmth, Duke is the perfect companion for those seeking a mature and loving presence. His medium size and well-lived demeanor make him a delightful addition to any home.",
+     "pers": [
+       {"objectID": 10, "name": "Loyalty"},
+       {"objectID": 11, "name": "Wisdom"},
+       {"objectID": 12, "name": "Comforting Presence"}
+     ],
+     "image": "cur2.png"
+   },
+   {
+     "objectID": 4,
+     "name": "Rosie",
+     "gender": "female",
+     "breed": "Cur",
+     "age": 4,
+     "size": "Small",
+     "noviceOwner": true,
+     "desc": "Introducing Rosie, the delightful 4-year-old Beagle-like Cur! With a heart full of charm and a mix of Beagle's friendly curiosity, Rosie is the perfect companion for those seeking a blend of playfulness and loyalty. Her warm, expressive eyes reflect years of unique experiences, making every moment with her a special adventure.",
+     "pers": [
+       {"objectID": 13, "name": "Playfulness"},
+       {"objectID": 14, "name": "Affectionate"},
+       {"objectID": 15, "name": "Unique Charm"}
+     ],
+     "image": "cur3.png"
+   },
+   {
+     "objectID": 5,
+     "name": "Milo",
+     "gender": "male",
+     "breed": "Cur",
+     "age": 8,
+     "size": "Medium",
+     "noviceOwner": true,
+     "desc": "Meet Milo, the seasoned and endearing middle-sized Cur with a heart full of stories at 8 years old. Milo's slightly grizzled charm and calm demeanor make him the perfect companion for those who appreciate the wisdom that comes with age. With a medium-sized frame and a lifetime of experiences, Milo offers the comforting presence of a true and loyal friend. Embrace Milo for a journey filled with the warmth, companionship, and unique qualities that only an older, wiser canine companion can bring.",
+     "pers": [
+       {"objectID": 16, "name": "Wisdom"},
+       {"objectID": 17, "name": "Calm Demeanor"},
+       {"objectID": 18, "name": "Loyal Companion"}
+     ],
+     "image": "cur4.png"
+   },
+   {
+     "objectID": 6,
+     "name": "Sadie",
+     "gender": "female",
+     "breed": "Cur",
+     "age": 3,
+     "size": "Small",
+     "noviceOwner": true,
+     "desc": "Meet Sadie, the delightful Dachshund with a personality as charming as her unique appearance! At 3 years old, Sadie is a small bundle of energy and affection. With her distinctive long body and soulful eyes, Sadie is the perfect companion for those seeking a loyal and playful friend. Whether she's trotting around with her short legs or curled up for a cozy nap, Sadie brings joy and warmth to every moment.",
+     "pers": [
+       {"objectID": 19, "name": "Affectionate"},
+       {"objectID": 20, "name": "Playfulness"},
+       {"objectID": 21, "name": "Family-Friendly"},
+       {"objectID": 22, "name": "Lap Companion"}
+     ],
+     "image": "dachshund.png"
+   },
+   {
+     "objectID": 7,
+     "name": "Rocky",
+     "gender": "male",
+     "breed": "German-shepher",
+     "age": 4,
+     "size": "Large",
+     "noviceOwner": false,
+     "desc": "Meet Rocky, the majestic 4-year-old German Shepherd. With a strong and loyal demeanor, Rocky is not just a pet but a trusted companion. His intelligent eyes and noble stance reflect the classic traits of his breed, making him an ideal partner for those who appreciate both strength and gentleness. Embrace Rocky for a journey filled with loyalty, intelligence, and the unwavering friendship of a German Shepherd.",
+     "pers": [
+       {"objectID": 23, "name": "Loyalty"},
+       {"objectID": 24, "name": "Intelligence"},
+       {"objectID": 25, "name": "Majestic Presence"}
+     ],
+     "image": "german-shepherd.png"
+   },
+   {
+     "objectID": 8,
+     "name": "Bella",
+     "gender": "female",
+     "breed": "Pug",
+     "age": 6,
+     "size": "Small",
+     "noviceOwner": true,
+     "desc": "Introducing Bella, the charming 6-year-old Pug with a heart as big as her adorable wrinkles. Bella's playful personality and affectionate nature make her the perfect lap companion. Her expressive eyes and unique charm will warm your heart, bringing joy to every moment. Embrace Bella for a journey filled with love, laughter, and the delightful quirks that only a Pug can offer.",
+     "pers": [
+       {"objectID": 26, "name": "Affectionate"},
+       {"objectID": 27, "name": "Playfulness"},
+       {"objectID": 28, "name": "Unique Charm"}
+     ],
+     "image": "pug.png"
+   },
+   {
+     "objectID": 9,
+     "name": "Charlie",
+     "gender": "male",
+     "breed": "Rottweiler",
+     "age": 0.5,
+     "size": "Large",
+     "noviceOwner": false,
+     "desc": "Say hello to Charlie, the energetic Rottweiler puppy ready to bring excitement to your life. With a mix of strength and exuberance, Charlie is a bundle of joy with a heart full of loyalty. His sleek coat and attentive gaze showcase the distinctive qualities of the Rottweiler breed. Embrace Charlie for a journey filled with boundless energy, loyalty, and the dynamic companionship of a young Rottweiler.",
+     "pers": [
+       {"objectID": 29, "name": "Protective"},
+       {"objectID": 30, "name": "Energetic"},
+       {"objectID": 31, "name": "Loyalty"}
+     ],
+     "image": "rottweiler.png"
+   }
+ ]
+ 

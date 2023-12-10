@@ -1,0 +1,10 @@
+.checkbox {
+    height: 26px;
+    width: 26px;
+}
+
+.checkboxWithLabel {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
